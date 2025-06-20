@@ -34,15 +34,3 @@ It features multiple difficulty levels and keeps track of your best performance.
 
 ## 🧩 Run the Game
 - python main.py
-
-🧠 Gameplay Instructions
-
-Click "Shuffle" to randomize the tiles.
-Rearrange the tiles by clicking adjacent ones into the empty space.
-Complete the puzzle in the shortest time to beat your high score.
-Use "Reset" to restart or select a new difficulty level.
-
-🏆 High Score Tracking
-
-Your best time is automatically saved in the high_score.txt file and displayed during gameplay.
-   
